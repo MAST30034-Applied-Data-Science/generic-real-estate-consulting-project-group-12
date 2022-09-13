@@ -26,3 +26,5 @@ Contains all the information about suburbs with postcode
 suburb file contains all the main suburbs in VIC, which will be used to extract suburb id
 #### 8.suburb_id.csv
 This file contains suburb id which obtains using api by v1/addressLocators 
+#### 9.shopping center.csv
+The name and suburb of the shopping center in Victoria.
