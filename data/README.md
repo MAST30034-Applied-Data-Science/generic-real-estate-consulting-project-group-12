@@ -34,3 +34,10 @@ The agent list file contains all the agent that sells/rents properties in Victor
 This file contains all the agent id that sells/rent houses in Victoria
 #### 12.house_combined.csv
 This file contains all the properties in VIC through https://developer.domain.com.au/docs/latest/apis/pkg_agents_listings/references/agencies_getlistings using api
+#### 13.routes.json
+This file is used to extract route id and route type that will be used to extract stops of different transportation
+#### 14.stops_file_0.json/stops_file_1.json/stops_file_2.json/stops_file_3.json/stops_file_4.json
+The stops file contains all the stops in VIC, where stops_file_0.json contains train stops, stops_file_1.json contains Tram stops, stops_file_2.json contains bus stops, stops_file_3.json contains Vline stops, stops_file_4.json contains Night Bus stops
+#### 15.train_stops_file.csv/tram_stops_file.csv/bus_stops_file.csv/vline_stops_file.csv
+These csv files contains all the stops information with suburb name and postcode
+
