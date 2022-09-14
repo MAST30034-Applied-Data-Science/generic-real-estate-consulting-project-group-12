@@ -28,3 +28,9 @@ suburb file contains all the main suburbs in VIC, which will be used to extract 
 This file contains suburb id which obtains using api by v1/addressLocators 
 #### 9.shopping center.csv
 The name and suburb of the shopping center in Victoria.
+#### 10.agent_list.csv and agent_list2.csv
+The agent list file contains all the agent that sells/rents properties in Victoria, which obtained through https://developer.domain.com.au/docs/latest/apis/pkg_agents_listings/references/agencies_search using api
+#### 11.agent_info_id.csv
+This file contains all the agent id that sells/rent houses in Victoria
+#### 12.house_combined.csv
+This file contains all the properties in VIC through https://developer.domain.com.au/docs/latest/apis/pkg_agents_listings/references/agencies_getlistings using api
