@@ -40,4 +40,7 @@ This file is used to extract route id and route type that will be used to extrac
 The stops file contains all the stops in VIC, where stops_file_0.json contains train stops, stops_file_1.json contains Tram stops, stops_file_2.json contains bus stops, stops_file_3.json contains Vline stops, stops_file_4.json contains Night Bus stops
 #### 15.train_stops_file.csv/tram_stops_file.csv/bus_stops_file.csv/vline_stops_file.csv
 These csv files contains all the stops information with suburb name and postcode
-
+#### 16.criminal incidents.csv
+Criminal incidents and rate per 100,000 population by area from 2013 to 2022
+#### 17.recorded offences.csv
+Offences recorded and rate per 100,000 population by area from 2013 to 2022
