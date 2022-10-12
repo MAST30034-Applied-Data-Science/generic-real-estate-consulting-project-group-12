@@ -1,0 +1,221 @@
+,stop_suburb,stop_latitude,stop_longitude,stop_id,stop_name,postcode
+0,ashburton,-37.8683167,145.079666,1002,Alamein Station,3147
+1,ashburton,-37.86197,145.081345,1010,Ashburton Station,3147
+2,hawthorn east,-37.8224,145.045837,1012,Auburn Station,3123
+3,burnley,-37.8275566,145.007553,1030,Burnley Station,3121
+4,glen iris,-37.8515625,145.0805,1031,Burwood Station,3146
+5,camberwell,-37.8265648,145.058685,1032,Camberwell Station,3124
+6,richmond,-37.8264046,144.99707,1059,East Richmond Station,3121
+7,melbourne city,-37.8119774,144.955658,1068,Flagstaff Station,
+8,melbourne city,-37.81831,144.966965,1071,Flinders Street Station,
+9,hawthorn,-37.8214645,145.036438,1080,Glenferrie Station,3122
+10,camberwell,-37.8439827,145.075562,1087,Hartwell Station,3124
+11,hawthorn,-37.8218231,145.0229,1090,Hawthorn Station,3122
+12,melbourne city,-37.8099365,144.9626,1120,Melbourne Central Station,
+13,melbourne city,-37.8110542,144.9729,1155,Parliament Station,
+14,richmond,-37.8240738,144.990158,1162,Richmond Station,3121
+15,camberwell,-37.8315,145.069641,1166,Riversdale Station,3124
+16,melbourne city,-37.8183327,144.95253,1181,Southern Cross Station,
+17,camberwell,-37.8357124,145.0703,1213,Willison Station,3124
+18,bayswater,-37.84173,145.268143,1016,Bayswater Station,3153
+19,belgrave,-37.9091,145.355286,1018,Belgrave Station,3160
+20,blackburn,-37.82007,145.150009,1023,Blackburn Station,3130
+21,boronia,-37.8604546,145.284378,1025,Boronia Station,3155
+22,box hill,-37.8192177,145.121429,1026,Box Hill Station,3128
+23,canterbury,-37.82449,145.081223,1033,Canterbury Station,3126
+24,surrey hills,-37.8243027,145.088654,1037,Chatham Station,3127
+25,camberwell,-37.8258934,145.068192,1057,East Camberwell Station,3124
+26,ferntree gully,-37.8817,145.295258,1067,Ferntree Gully Station,3156
+27,ringwood,-37.81884,145.213547,1091,Heatherdale Station,3134
+28,heathmont,-37.82832,145.244553,1092,Heathmont Station,3135
+29,blackburn,-37.8207779,145.1407,1111,Laburnum Station,3130
+30,mitcham,-37.8180847,145.192886,1128,Mitcham Station,3132
+31,mont albert,-37.8194275,145.10553,1129,Mont Albert Station,3127
+32,nunawading,-37.8204231,145.175232,1148,Nunawading Station,3131
+33,ringwood,-37.8156624,145.229477,1163,Ringwood Station,3134
+34,surrey hills,-37.8241425,145.098785,1189,Surrey Hills Station,3127
+35,tecoma,-37.9081154,145.343,1191,Tecoma Station,3160
+36,upper ferntree gully,-37.8926735,145.307526,1199,Upper Ferntree Gully Station,3156
+37,upwey,-37.90369,145.331329,1200,Upwey Station,3158
+38,ascot vale,-37.77531,144.921829,1009,Ascot Vale Station,3032
+39,broadmeadows,-37.6830521,144.919617,1028,Broadmeadows Station,3047
+40,coolaroo,-37.661,144.926056,1221,Coolaroo Station,3048
+41,craigieburn,-37.6019249,144.943314,1044,Craigieburn Station,3064
+42,essendon,-37.75601,144.9162,1064,Essendon Station,3040
+43,essendon,-37.7472153,144.920944,1079,Glenbervie Station,3040
+44,glenroy,-37.7045326,144.917221,1082,Glenroy Station,3046
+45,glenroy,-37.6951332,144.915848,1102,Jacana Station,3046
+46,kensington,-37.7937775,144.930527,1108,Kensington Station,3031
+47,moonee ponds,-37.7657051,144.919159,1131,Moonee Ponds Station,3039
+48,flemington,-37.7873268,144.928986,1140,Newmarket Station,3031
+49,west melbourne,-37.80631,144.941513,1144,North Melbourne Station,3003
+50,oak park,-37.71795,144.921509,1149,Oak Park Station,3046
+51,pascoe vale,-37.7307549,144.928192,1156,Pascoe Vale Station,3044
+52,roxburgh park,-37.6382332,144.93541,1219,Roxburgh Park Station,3064
+53,strathmore,-37.74359,144.927322,1186,Strathmore Station,3041
+54,armadale,-37.8564529,145.019333,1008,Armadale Station,3143
+55,carnegie,-37.88624,145.058578,1034,Carnegie Station,3163
+56,caulfield east,-37.8774567,145.042526,1036,Caulfield Station,3145
+57,clayton,-37.9251671,145.120682,1040,Clayton Station,3168
+58,cranbourne,-38.09954,145.2806,1045,Cranbourne Station,3977
+59,dandenong,-37.9899673,145.209732,1049,Dandenong Station,3175
+60,south yarra,-37.844593,145.002136,1089,Hawksburn Station,3141
+61,hughesdale,-37.89425,145.076431,1098,Hughesdale Station,3166
+62,oakleigh,-37.91102,145.102371,1099,Huntingdale Station,3166
+63,lynbrook,-38.0573463,145.249283,1222,Lynbrook Station,3975
+64,malvern,-37.86625,145.0293,1118,Malvern Station,3144
+65,cranbourne north,-38.0790024,145.2635,1123,Merinda Park Station,3977
+66,murrumbeena,-37.8901978,145.067383,1138,Murrumbeena Station,3163
+67,noble park,-37.9666252,145.176331,1142,Noble Park Station,3174
+68,oakleigh,-37.9003677,145.088318,1150,Oakleigh Station,3166
+69,springvale,-37.9565,145.162827,1172,Sandown Park Station,3171
+70,south yarra,-37.8384438,144.99234,1180,South Yarra Station,3141
+71,springvale,-37.9495125,145.153458,1183,Springvale Station,3171
+72,armadale,-37.85077,145.0139,1194,Toorak Station,3143
+73,clayton south,-37.93849,145.13884,1208,Westall Station,3169
+74,noble park,-37.9782524,145.1916,1215,Yarraman Station,3174
+75,preston,-37.7455673,145.000153,1019,Bell Station,3072
+76,clifton hill,-37.7886543,144.995422,1041,Clifton Hill Station,3068
+77,abbotsford,-37.8045235,144.993744,1043,Collingwood Station,3067
+78,northcote,-37.7641,144.997055,1047,Croxton Station,3070
+79,epping,-37.6521873,145.031067,1063,Epping Station,3076
+80,south morang,-37.6229935,145.0974,1227,Hawkstowe Station,3752
+81,east melbourne,-37.81653,144.9841,1104,Jolimont-MCG Station,3002
+82,thomastown,-37.6948662,145.011887,1109,Keon Park Station,3074
+83,lalor,-37.66585,145.0172,1112,Lalor Station,3075
+84,mernda,-37.60255,145.100876,1228,Mernda Station,3754
+85,northcote,-37.7778435,144.992981,1125,Merri Station,3070
+86,south morang,-37.644062,145.092133,1226,Middle Gorge Station,3752
+87,richmond,-37.8103943,144.9925,1145,North Richmond Station,3121
+88,northcote,-37.7698631,144.995285,1147,Northcote Station,3070
+89,preston,-37.7386742,145.000534,1159,Preston Station,3072
+90,reservoir,-37.7284,145.002777,1160,Regent Station,3073
+91,reservoir,-37.71689,145.006989,1161,Reservoir Station,3073
+92,fitzroy north,-37.78322,144.9924,1170,Rushall Station,3068
+93,reservoir,-37.7078972,145.009521,1171,Ruthven Station,3073
+94,south morang,-37.6491623,145.067032,1224,South Morang Station,3752
+95,thomastown,-37.680336,145.014282,1192,Thomastown Station,3074
+96,thornbury,-37.7550468,144.998581,1193,Thornbury Station,3071
+97,abbotsford,-37.7991562,144.994446,1201,Victoria Park Station,3067
+98,richmond,-37.8149452,144.991425,1207,West Richmond Station,3121
+99,aspendale,-38.02722,145.102158,1011,Aspendale Station,3195
+100,bentleigh,-37.9174271,145.036987,1020,Bentleigh Station,3204
+101,bonbeach,-38.06507,145.120026,1024,Bonbeach Station,3196
+102,carrum,-38.0765038,145.122833,1035,Carrum Station,3197
+103,chelsea,-38.05332,145.116638,1038,Chelsea Station,3196
+104,cheltenham,-37.9666519,145.05455,1039,Cheltenham Station,3192
+105,edithvale,-38.0360641,145.1073,1060,Edithvale Station,3196
+106,frankston,-38.1429863,145.12616,1073,Frankston Station,3199
+107,glen huntly,-37.8897171,145.042221,1081,Glenhuntly Station,3163
+108,highett,-37.9484253,145.04187,1095,Highett Station,3190
+109,seaford,-38.12174,145.135284,1106,Kananook Station,3198
+110,mckinnon,-37.910305,145.0383,1119,McKinnon Station,3204
+111,mentone,-37.9818649,145.06517,1122,Mentone Station,3194
+112,moorabbin,-37.93435,145.036743,1132,Moorabbin Station,3189
+113,mordialloc,-38.006588,145.087662,1134,Mordialloc Station,3195
+114,ormond,-37.90321,145.039612,1152,Ormond Station,3204
+115,parkdale,-37.9930763,145.076324,1154,Parkdale Station,3195
+116,bentleigh,-37.9251442,145.035461,1157,Patterson Station,3204
+117,seaford,-38.1040154,145.128235,1174,Seaford Station,3198
+118,cheltenham,-37.95876,145.049118,1001,Southland Station,3192
+119,malvern east,-37.8689575,145.062943,1051,Darling Station,3145
+120,malvern east,-37.87693,145.0694,1058,East Malvern Station,3145
+121,glen iris,-37.853282899999996,145.051666,1075,Gardiner Station,3146
+122,glen iris,-37.8593063,145.058228,1077,Glen Iris Station,3146
+123,glen waverley,-37.8795,145.162064,1078,Glen Waverley Station,3150
+124,toorak,-37.83467,145.022629,1094,Heyington Station,3142
+125,malvern east,-37.8744,145.090652,1096,Holmesglen Station,3145
+126,mount waverley,-37.8736,145.112091,1105,Jordanville Station,3149
+127,kooyong,-37.8399277,145.033554,1110,Kooyong Station,3144
+128,mount waverley,-37.87525,145.128052,1137,Mount Waverley Station,3149
+129,glen waverley,-37.87623,145.14978,1190,Syndal Station,3150
+130,malvern,-37.84937,145.041733,1195,Tooronga Station,3144
+131,alphington,-37.7783966,145.03125,1004,Alphington Station,3078
+132,ivanhoe,-37.7749634,145.038483,1050,Darebin Station,3079
+133,northcote,-37.7791824,145.00824,1053,Dennis Station,3070
+134,diamond creek,-37.6732941,145.158508,1054,Diamond Creek Station,3089
+135,eaglemont,-37.7635841,145.05394,1056,Eaglemont Station,3084
+136,eltham,-37.71355,145.147827,1062,Eltham Station,3095
+137,fairfield,-37.7791748,145.0169,1065,Fairfield Station,3078
+138,greensborough,-37.70395,145.108246,1084,Greensborough Station,3088
+139,heidelberg,-37.7570763,145.060684,1093,Heidelberg Station,3084
+140,hurstbridge,-37.6394,145.192017,1100,Hurstbridge Station,3099
+141,ivanhoe,-37.768898,145.045425,1101,Ivanhoe Station,3079
+142,macleod,-37.72601,145.069153,1117,Macleod Station,3085
+143,montmorency,-37.7152977,145.1215,1130,Montmorency Station,3094
+144,rosanna,-37.7428741,145.066147,1168,Rosanna Station,3084
+145,watsonia,-37.7109528,145.0838,1203,Watsonia Station,3087
+146,wattle glen,-37.6639671,145.181625,1204,Wattle Glen Station,3096
+147,northcote,-37.7806168,144.999237,1209,Westgarth Station,3070
+148,croydon,-37.79544,145.2806,1048,Croydon Station,3136
+149,lilydale,-37.75722,145.34581,1115,Lilydale Station,3140
+150,mooroolbark,-37.7847481,145.312408,1133,Mooroolbark Station,3138
+151,ringwood east,-37.81197,145.2502,1164,Ringwood East Station,3135
+152,beaconsfield,-38.050827,145.366074,1017,Beaconsfield Station,3807
+153,berwick,-38.04041,145.345718,1021,Berwick Station,3806
+154,pakenham,-38.07129,145.43779,1223,Cardinia Road Station,3810
+155,hallam,-38.0177422,145.269775,1085,Hallam Station,3803
+156,narre warren,-38.02781,145.30397,1139,Narre Warren Station,3805
+157,officer,-38.066143,145.411,1151,Officer Station,3809
+158,pakenham,-38.0806122,145.486374,1153,Pakenham Station,3810
+159,balaclava,-37.8694878,144.993515,1013,Balaclava Station,3183
+160,brighton,-37.9264832,144.989151,1027,Brighton Beach Station,3186
+161,elsternwick,-37.88475,145.0009,1061,Elsternwick Station,3185
+162,brighton,-37.8966942,145.004166,1074,Gardenvale Station,3186
+163,hampton,-37.937973,145.001465,1086,Hampton Station,3188
+164,brighton,-37.9151344,144.996292,1126,Middle Brighton Station,3186
+165,brighton,-37.9048843,145.002609,1143,North Brighton Station,3186
+166,prahran,-37.8495178,144.989853,1158,Prahran Station,3181
+167,ripponlea,-37.8759079,144.995239,1165,Ripponlea Station,3185
+168,sandringham,-37.95033,145.004562,1173,Sandringham Station,3191
+169,windsor,-37.8560524,144.992035,1214,Windsor Station,3181
+170,baxter,-38.194046,145.160522,1015,Baxter Station,3911
+171,bittern,-38.33739,145.178024,1022,Bittern Station,3918
+172,crib point,-38.36612,145.204041,1046,Crib Point Station,3919
+173,hastings,-38.30566,145.185974,1088,Hastings Station,3915
+174,frankston,-38.1520348,145.139542,1114,Leawarra Station,3199
+175,crib point,-38.3540344,145.1896,1136,Morradoo Station,3919
+176,somerville,-38.22534,145.176239,1178,Somerville Station,3912
+177,crib point,-38.3742371,145.221848,1185,Stony Point Station,3919
+178,tyabb,-38.2598152,145.1864,1197,Tyabb Station,3913
+179,sunshine north,-37.7776566,144.8247,1003,Albion Station,3020
+180,diggers rest,-37.6270142,144.719925,1055,Diggers Rest Station,3427
+181,footscray,-37.8010864,144.9032,1072,Footscray Station,3011
+182,st albans,-37.760067,144.811356,1076,Ginifer Station,3021
+183,st albans,-37.7292747,144.793732,1107,Keilor Plains Station,3021
+184,footscray,-37.8025,144.891479,1127,Middle Footscray Station,3011
+185,kensington,-37.7995338,144.925476,1179,South Kensington Station,3031
+186,st albans,-37.7448578,144.800049,1184,St Albans Station,3021
+187,sunbury,-37.57909,144.727325,1187,Sunbury Station,3429
+188,sunshine,-37.7877426,144.83197,1218,Sunshine Station,3020
+189,west footscray,-37.7992554,144.862946,1196,Tottenham Station,3012
+190,sydenham,-37.7011261,144.774185,1202,Watergardens Station,3037
+191,west footscray,-37.8018036,144.883987,1206,West Footscray Station,3012
+192,brunswick,-37.76124,144.9607,1006,Anstey Station,3056
+193,coburg north,-37.7335243,144.96283,1014,Batman Station,3058
+194,brunswick,-37.76772,144.9596,1029,Brunswick Station,3056
+195,coburg,-37.74234,144.963348,1042,Coburg Station,3058
+196,fawkner,-37.7146225,144.960556,1066,Fawkner Station,3060
+197,north melbourne,-37.7881355,144.939316,1069,Flemington Bridge Station,3051
+198,glenroy,-37.700676,144.958878,1083,Gowrie Station,3046
+199,brunswick,-37.7749825,144.95871,1103,Jewell Station,3056
+200,north melbourne,-37.7942619,144.936172,1116,Macaulay Station,3051
+201,coburg north,-37.7209358,144.961319,1124,Merlynston Station,3058
+202,coburg,-37.7544823,144.961823,1135,Moreland Station,3058
+203,parkville,-37.7811928,144.9523,1169,Royal Park Station,3052
+204,coolaroo,-37.6660767,144.946747,1198,Upfield Station,3048
+205,laverton,-37.8666039,144.7608,1220,Aircraft Station,3028
+206,altona,-37.86715,144.829651,1005,Altona Station,3018
+207,hoppers crossing,-37.8832779,144.700958,1097,Hoppers Crossing Station,3029
+208,laverton,-37.8636932,144.772614,1113,Laverton Station,3028
+209,newport,-37.842712399999996,144.8836,1141,Newport Station,3015
+210,seaholme,-37.8678436,144.840958,1175,Seaholme Station,3018
+211,seddon,-37.8090019,144.89566,1176,Seddon Station,3011
+212,spotswood,-37.8306351,144.885941,1182,Spotswood Station,3015
+213,werribee,-37.8993835,144.661118,1205,Werribee Station,3030
+214,altona,-37.8651657,144.813492,1210,Westona Station,3018
+215,williams landing,-37.86987,144.747452,1225,Williams Landing Station,3027
+216,yarraville,-37.81585,144.889938,1216,Yarraville Station,3013
+217,williamstown,-37.85733,144.889069,1146,North Williamstown Station,3016
+218,williamstown,-37.8677559,144.905319,1211,Williamstown Station,3016
+219,williamstown,-37.8639832,144.894485,1212,Williamstown Beach Station,3016

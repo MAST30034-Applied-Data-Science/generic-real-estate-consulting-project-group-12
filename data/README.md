@@ -4,3 +4,43 @@
 - Sprint 3: Final batch of datasets released.
 
 The data will either be provided by an annoucement (downloadable via URL) or uploaded directly to the `raw` directory.
+
+
+## Sprint 1 
+
+### Data 
+Dataset uploaded to @raw folder are: 
+#### 1. Population data 
+Population data are the annual census data from 2001 to 2021 sourced from ABS, where population are counted by region, uploaded data file in excel workbook format with 2022 population forecast based on average of past 5 years data (i.e., 2016 to 2021).
+#### 2. Income data
+Income data are regional which starts on 2014 up to 2018, it contains information of number of earners, median age of earner, sum, median and mean of amount earned. For each of these items, a forecast based on average change over past 5 year has been done to each from 2019 onwards up to 2022. 
+#### 3. Sex & Age by Year
+Sex and age by year dataset are regional, sourced from ABS starting from 2001 to 2021. It contains yearly male and female count by age group. Sex ratio for 2022 has been forecasted by averaging change from 2016 to 2021. Age groups are separated into 18 buckets with 5-year gap (from 0 – 85+) each (note: this might need to be aggregate at some point with further group discussion). 
+#### 4.2019_Data to 2022_Data
+The average housing price for each postcode in Victoria from 2019.01 to 2022.06.Calculated by month.
+#### 5.Hospital data (hospital_csv)
+All the hospital data scraping from https://vahi.vic.gov.au/hospital-and-health-services
+#### 6. postcode_in_VIC.csv
+Contains all the information about suburbs with postcode
+#### 7.suburb.xltx
+suburb file contains all the main suburbs in VIC, which will be used to extract suburb id
+#### 8.suburb_id.csv
+This file contains suburb id which obtains using api by v1/addressLocators 
+#### 9.shopping center.csv
+The name and suburb of the shopping center in Victoria.
+#### 10.agent_list.csv and agent_list2.csv
+The agent list file contains all the agent that sells/rents properties in Victoria, which obtained through https://developer.domain.com.au/docs/latest/apis/pkg_agents_listings/references/agencies_search using api
+#### 11.agent_info_id.csv
+This file contains all the agent id that sells/rent houses in Victoria
+#### 12.house_combined.csv
+This file contains all the properties in VIC through https://developer.domain.com.au/docs/latest/apis/pkg_agents_listings/references/agencies_getlistings using api
+#### 13.routes.json
+This file is used to extract route id and route type that will be used to extract stops of different transportation
+#### 14.stops_file_0.json/stops_file_1.json/stops_file_2.json/stops_file_3.json/stops_file_4.json
+The stops file contains all the stops in VIC, where stops_file_0.json contains train stops, stops_file_1.json contains Tram stops, stops_file_2.json contains bus stops, stops_file_3.json contains Vline stops, stops_file_4.json contains Night Bus stops
+#### 15.train_stops_file.csv/tram_stops_file.csv/bus_stops_file.csv/vline_stops_file.csv
+These csv files contains all the stops information with suburb name and postcode
+#### 16.criminal incidents.csv
+Criminal incidents and rate per 100,000 population by area from 2013 to 2022
+#### 17.recorded offences.csv
+Offences recorded and rate per 100,000 population by area from 2013 to 2022

@@ -1,0 +1,211 @@
+suburb,suburb_id
+Albert Park,797
+Middle Park,26507
+Armadale,1587
+Carlton North,8247
+Carlton,8217
+Parkville,32107
+Collingwood,9987
+Abbotsford,161777
+Abbotsford,627
+Abbotsford,145327
+Docklands,12117
+East Melbourne,13127
+East Melbourne,161847
+Elwood,13717
+Fitzroy,14527
+Fitzroy North,14567
+Clifton Hill,9437
+Flemington,14617
+Kensington,21037
+North Melbourne,31037
+West Melbourne,43457
+Port Melbourne,33267
+Prahran,33397
+Windsor,44117
+Richmond,34297
+Burnley,7117
+South Melbourne,36797
+South Melbourne,36807
+South Yarra,36877
+Southbank,36897
+St Kilda,37407
+Toorak,40447
+Toorak,40457
+Balwyn,2557
+Blackburn,4637
+Box Hill,5477
+Bulleen,6707
+Templestowe,39607
+Doncaster,12177
+Burwood,7237
+Ashburton,1787
+Camberwell,7677
+Glen Iris,15907
+Canterbury,7907
+Surrey Hills,92817
+Surrey Hills,38357
+Mont Albert,27307
+Chadstone,8847
+Oakleigh,31547
+Clayton,9327
+Doncaster East,12227
+Donvale,12247
+Glen Waverley,15957
+Mulgrave,29167
+Hawthorn,18087
+Hawthorn,18097
+Kew,21137
+Mount Waverley,28457
+Nunawading,31307
+Mitcham,26977
+Vermont,41507
+Forest Hill,14827
+Burwood East,7327
+Aspendale,1817
+Chelsea,8927
+Carrum,8497
+Bentleigh,4117
+Brighton,5957
+Brighton East,5997
+Carnegie,8297
+Caulfield,8687
+Cheltenham,8967
+Elsternwick,13627
+Hampton,17737
+Beaumaris,3547
+Malvern,25047
+Malvern East,25077
+Mentone,26087
+Parkdale,32097
+Mordialloc,27817
+Murrumbeena,29437
+Hughesdale,19257
+Altona,1057
+Footscray,14717
+Keilor East,20897
+Avondale Heights,1957
+Melton,25957
+Newport,30557
+Spotswood,36987
+St Albans,37177
+Deer Park,11507
+Sunshine,38277
+Sydenham,38547
+Werribee,43317
+Hoppers Crossing,19067
+West Footscray,43407
+Williamstown,43967
+Yarraville,45777
+Seddon,35997
+Broadmeadows,6127
+Roxburgh Park,35077
+Brunswick,6377
+Coburg,9707
+Pascoe Vale South,32177
+Craigieburn,10597
+Essendon,13957
+Gladstone Park,15787
+Tullamarine,40947
+Keilor,20857
+Moonee Ponds,27497
+Ascot Vale,1757
+Oak Park,31507
+Glenroy,16477
+Fawkner,14297
+Pascoe Vale,32147
+Coburg North,9727
+Sunbury,38197
+Bundoora,6877
+Greensborough,17297
+Hurstbridge,19387
+Eltham,13677
+Research,34117
+Montmorency,27387
+Fairfield,14197
+Alphington,1047
+Heidelberg,18387
+Heidelberg West,18427
+Ivanhoe,19767
+Ivanhoe East,19787
+Mill Park,26637
+Epping,13867
+Northcote,31107
+Preston,33507
+Reservoir,34167
+Thomastown,39897
+Lalor,22937
+Thornbury,161937
+Thornbury,39937
+Whittlesea,43777
+Bayswater,3337
+Boronia,5327
+Croydon,10867
+Lilydale,23747
+Ferntree Gully,14407
+Ringwood,34397
+Rowville,35057
+Wantirna,42327
+Scoresby,35767
+Berwick,4297
+Cranbourne,10627
+Dandenong,11157
+Dandenong North,11187
+Endeavour Hills,13797
+Narre Warren,30017
+Hampton Park,17807
+Noble Park,30827
+Pakenham,31947
+Springvale,37117
+Dromana,12437
+Portsea,33327
+Frankston,14947
+Hastings,17967
+Flinders,14637
+Mornington,27897
+Seaford,35867
+Carrum Downs,8507
+Belmont,3827
+Grovedale,17417
+Corio,10317
+Geelong,15337
+Herne Hill,18527
+Geelong West,15407
+Lara,23187
+Newtown,30617
+Newtown,30627
+North Geelong,31027
+Mount Clear,28117
+Buninyong,7017
+Sebastopol,35987
+Delacombe,11537
+Wendouree,43237
+Alfredton,887
+Bendigo,3977
+Flora Hill,14647
+Golden Square,16637
+Kangaroo Flat,20447
+North Bendigo,30997
+Bairnsdale,2147
+Benalla,3897
+Castlemaine,8607
+Echuca,13227
+Hamilton,17687
+Horsham,19137
+Mildura,26567
+Moe,27127
+Newborough,30417
+Morwell,27977
+Ocean Grove,31627
+Barwon Heads,3127
+Portland,33297
+Sale,35387
+Maffra,24807
+Seymour,36117
+Shepparton,36297
+Swan Hill,38427
+Torquay,40507
+Traralgon,40687
+Warragul,42517
+Warrnambool,42697
+Wodonga,44317
