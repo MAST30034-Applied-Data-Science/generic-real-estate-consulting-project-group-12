@@ -14,13 +14,13 @@ To run the pipeline, please visit the `notebooks` directory and run the files in
 
 1.`scraping.ipynb`: Scrape the basic rental data from domain.<br>
 2.`get_historical_data.ipynb`: Use api to get historical rental data.<br>
-3.`get_externel_data.ipynb`: Get the environment and some other geolocation data.<br>
+3.`get_externel_data.ipynb`: Get the externel features around properties through OpenStreetMap.<br>
 4.`get_ptv.ipynb`: Get the transportation data.<br>
 5.`get_future_built_school_address.ipynb`: Get the school data that will be built in the future.<br>
 6.`population forcasting.ipynb`: Forcasting population for next five years.<br>
 7.`modify_shopping.ipynb`: Preprocess the shopping center data to let it be able to merge into our dataframe.<br>
 8.`merged_data.ipynb`: Merge all the scraped data together.<br>
-9.`prediction.ipynb`: Fit the models and make predictions, also answer to the third question.<br>
+9.`prediction.ipynb`: Fit the models and make predictions, also answer to three questions.<br>
 10.`visualization.ipynb`: Codes for visualization.<br>
 
 
