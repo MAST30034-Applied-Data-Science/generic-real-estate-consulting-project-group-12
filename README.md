@@ -6,10 +6,10 @@
 
 **Timeline:** The timeline for the property dataset downloaded through API is from year 2019 to 2022, containing over 10K+ data, which will used for modelling
 
-## Datasets
-ALl the detailed information of datasets listed on readme file of data `data/README.md`
+## Data
+All the detailed information of datasets listed on readme file of data `data/README.md`
 
-
+## Notebooks
 To run the pipeline, please visit the `notebooks` directory and run the files in order:
 
 1.`scraping.ipynb`: Scrape the basic rental data from domain.<br>
@@ -25,3 +25,18 @@ To run the pipeline, please visit the `notebooks` directory and run the files in
 
 
 See the overall summary book at `notebooks/notebook summary.ipynb`
+
+## Models
+All the trained models are stored under this directory.
+How to load the model:
+```
+import pickle
+pickle.dump(xgbc,open(r"../models/trained_XGBoost_model.dat",'wb'))
+model = pickle.load(open(r"../models/trained_XGBoost_model.dat", "rb")) 
+# now you can use the trained model to predict
+```
+1. The trained XGBoost model is stored in trained_XGBoost_model.dat 
+
+
+## Scripts
+There is no python scripts under this folder, all code are stored under notebooks directory.
