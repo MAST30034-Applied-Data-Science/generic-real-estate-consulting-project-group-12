@@ -36,7 +36,10 @@ model = pickle.load(open(r"../models/trained_XGBoost_model.dat", "rb"))
 # now you can use the trained model to predict
 ```
 1. The trained XGBoost model is stored in trained_XGBoost_model.dat 
-
+2. The trained Decison Tree model is stored in trained_decision_tree_model.dat 
+1. The trained Random Forest model is stored in trained_RandomForest_model.dat 
+1. The trained Linear Regression model is stored in trained_LR_model.dat 
+1. The trained MLP model is stored in trained_MLP_model.dat 
 
 ## Scripts
 There is no python scripts under this folder, all code are stored under notebooks directory.
