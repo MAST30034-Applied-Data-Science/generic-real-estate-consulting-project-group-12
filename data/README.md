@@ -14,13 +14,13 @@ The recorded offence dataset contains number of  recorded offence count from 201
 Sex and age by year dataset are regional, sourced from ABS starting from 2001 to 2021. It contains yearly male and female count by age group. Sex ratio for 2022 has been forecasted by averaging change from 2016 to 2021. Age groups are separated into 18 buckets with 5-year gap (from 0 – 85+) each (note: this might need to be aggregate at some point with further group discussion). 
 #### 7. attribute_conbined.csv
 This dataset contains all the externel attributes downloaded through OpenStreetMap 
-#### 8. cleaned_complete.csv/cleaned_data.csv/cleaned_data_groupby.csv/cleaned_data_groupby_predict.csv/finalized.csv/house_combined.csv/merge_data_v2.csv
+#### 8. cleaned_complete.csv/cleaned_data.csv/cleaned_data_groupby.csv/cleaned_data_groupby_predict.csv/finalized.csv/house_combined.csv
 The datasets that before and after cleaning which will be used to modelling and prediction
 #### 9. cpi.csv
 The cpi value from 2019 to 2025
 #### 10. criminal incidents2022-2013.xlsx
 The criminal incidents from 2013 to 2022
-#### 11. distance_to_melbourne_central
+#### 11. distance_to_melbourne_center
 The distance to melbourne center via routes obtained by Open Route Service
 #### 12. gdp.xlsx
 The gdp value from 2019 to 2025
@@ -36,14 +36,8 @@ ALl the primary and secondary schools in VIC
 All the shopping center in VIC
 #### 18.suburb.xltx
 suburb file contains all the main suburbs in VIC, which will be used to extract suburb id
-#### 19.suburb_id.csv
-This file contains suburb id which obtains using api by v1/addressLocators 
 #### 20.shopping center.csv
 The name and suburb of the shopping center in Victoria.
-#### 21.agent_list.csv and agent_list2.csv
-The agent list file contains all the agent that sells/rents properties in Victoria, which obtained through https://developer.domain.com.au/docs/latest/apis/pkg_agents_listings/references/agencies_search using api
-#### 22.agent_info_id.csv
-This file contains all the agent id that sells/rent houses in Victoria
 #### 23.house_combined.csv
 This file contains all the properties in VIC through https://developer.domain.com.au/docs/latest/apis/pkg_agents_listings/references/agencies_getlistings using api
 #### 24.routes.json
@@ -55,3 +49,10 @@ These csv files contains all the stops information with suburb name and postcode
 #### 26. year_school_address.txt
 The future built school in VIC for the next two years
 
+### get_house_data
+#### 1.agent_list.csv and agent_list2.csv
+The agent list file contains all the agent that sells/rents properties in Victoria, which obtained through https://developer.domain.com.au/docs/latest/apis/pkg_agents_listings/references/agencies_search using api
+#### 2.suburb_id.csv/suburb_id_2.csv
+This file contains suburb id which obtains using api by v1/addressLocators 
+#### 3.agent_info_id.csv
+This file contains all the agent id that sells/rent houses in Victoria
