@@ -13,7 +13,7 @@ All the detailed information of datasets listed on readme file of data `data/REA
 To run the pipeline, please visit the `notebooks` directory and run the files in order:
 
 1.`scraping.ipynb`: Scrape the basic rental data from domain.<br>
-2.`get_historical_data.ipynb`: Use api to get historical rental data.<br>
+2.`get_historical_house_data.ipynb`: Use api to get historical rental data.<br>
 3.`get_externel_data.ipynb`: Get the externel features around properties through OpenStreetMap.<br>
 4.`get_ptv.ipynb`: Get the transportation data.<br>
 5.`get_future_built_school_address.ipynb`: Get the school data that will be built in the future.<br>
