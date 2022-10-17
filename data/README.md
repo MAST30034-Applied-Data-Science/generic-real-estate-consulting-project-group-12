@@ -36,23 +36,25 @@ ALl the primary and secondary schools in VIC
 All the shopping center in VIC
 #### 18.suburb.xltx
 suburb file contains all the main suburbs in VIC, which will be used to extract suburb id
-#### 20.shopping center.csv
+#### 19.shopping center.csv
 The name and suburb of the shopping center in Victoria.
-#### 23.house_combined.csv
+#### 20.house_combined.csv
 This file contains all the properties in VIC through https://developer.domain.com.au/docs/latest/apis/pkg_agents_listings/references/agencies_getlistings using api
-#### 24.routes.json
-This file is used to extract route id and route type that will be used to extract stops of different transportation
-#### 25.stops_file_0.json/stops_file_1.json/stops_file_2.json/stops_file_3.json/stops_file_4.json
-The stops file contains all the stops in VIC, where stops_file_0.json contains train stops, stops_file_1.json contains Tram stops, stops_file_2.json contains bus stops, stops_file_3.json contains Vline stops, stops_file_4.json contains Night Bus stops
-#### 26.train_stops_file.csv/tram_stops_file.csv/bus_stops_file.csv/vline_stops_file.csv
+#### 21.train_stops_file.csv/tram_stops_file.csv/bus_stops_file.csv/vline_stops_file.csv
 These csv files contains all the stops information with suburb name and postcode
-#### 26. year_school_address.txt
+#### 22. year_school_address.txt
 The future built school in VIC for the next two years
 
-### get_house_data
+### get_house_data file
 #### 1.agent_list.csv and agent_list2.csv
 The agent list file contains all the agent that sells/rents properties in Victoria, which obtained through https://developer.domain.com.au/docs/latest/apis/pkg_agents_listings/references/agencies_search using api
 #### 2.suburb_id.csv/suburb_id_2.csv
 This file contains suburb id which obtains using api by v1/addressLocators 
 #### 3.agent_info_id.csv
 This file contains all the agent id that sells/rent houses in Victoria
+
+### ptv_data file
+#### 1.routes.json
+This file is used to extract route id and route type that will be used to extract stops of different transportation
+#### 2.stops_file_0.json/stops_file_1.json/stops_file_2.json/stops_file_3.json/stops_file_4.json
+The stops file contains all the stops in VIC, where stops_file_0.json contains train stops, stops_file_1.json contains Tram stops, stops_file_2.json contains bus stops, stops_file_3.json contains Vline stops, stops_file_4.json contains Night Bus stops
