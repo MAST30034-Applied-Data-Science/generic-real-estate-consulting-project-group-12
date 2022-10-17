@@ -1439,3 +1439,4 @@
 {"disruption_ids": [], "stop_suburb": "Geelong", "route_type": 3, "stop_latitude": -38.14424, "stop_longitude": 144.355, "stop_sequence": 0, "stop_ticket": {"ticket_type": "", "zone": "Regional,Zone 4", "is_free_fare_zone": false, "ticket_machine": true, "ticket_checks": true, "vline_reservation": true, "ticket_zones": [4]}, "stop_id": 1527, "stop_name": "Geelong Railway Station", "stop_landmark": "Geelong Station"},
 {"disruption_ids": [], "stop_suburb": "Winchelsea", "route_type": 3, "stop_latitude": -38.24013, "stop_longitude": 143.984131, "stop_sequence": 0, "stop_ticket": {"ticket_type": "", "zone": "Regional", "is_free_fare_zone": false, "ticket_machine": false, "ticket_checks": false, "vline_reservation": true, "ticket_zones": []}, "stop_id": 1570, "stop_name": "Winchelsea Railway Station", "stop_landmark": "Winchelsea Railway Station"}
 ][
+[
